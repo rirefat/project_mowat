@@ -7,8 +7,6 @@ const List = (props) => {
     const {title, img} = props.product;
     return (
         <div className='cart-list mb-3'>
-            {/* <img src={img} alt="" />
-            <span>{title}</span> */}
             <table>
                 <tbody>
                 <tr>

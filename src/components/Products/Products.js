@@ -17,7 +17,12 @@ const Products = (props) => {
         const newCart = [...cart,product];
         setCart(newCart);        
     }
-   
+    
+    const chooseAgain = ()=>{
+        const newCart = [];
+        setCart(newCart);
+    }
+
     return (
         <div>
             <div className='mt-5 d-flex justify-content-center align-items-center'>
@@ -32,7 +37,7 @@ const Products = (props) => {
                 </div>
                 <div className="cart-container">
                     <h3 className='text-center mt-2 mb-5'>Order Summery</h3>
-                    <Cart addedProducts={cart}></Cart>
+                    <Cart addedProducts={cart} chooseAgain={chooseAgain}></Cart>
                 </div>
             </div>
         </div>
