@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Amazfit Band 5 Activity Fitness Tracker",
+        "price": 39.99,
+        "details": "AMAZON ALEXA BUILT-IN: Talk to Amazon Alexa on your Amazfit Band 5 activity fitness tracker. Ask Alexa questions, get translations, set alarms and timers, check the weather, control your smart home devices, and more.",
+        "rating":4.9,
+        "img": "https://m.media-amazon.com/images/I/61xSjdpeU0L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Fitbit Versa 2 Health and Fitness Smartwatch",
+        "price": 143.85,
+        "details": "Use amazon Alexa built in to get quick news and information, check the weather, set timers and alarms, control your smart home devices and more all through the sound of your voice (third party app may be required; amazon Alexa not available in all countries)",
+        "rating":4.9,
+        "img": "https://m.media-amazon.com/images/I/61L5Jko2QqL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Garmin Venu Sq, GPS Smartwatch ",
+        "price": 139.99,
+        "details": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+        "rating":4.9,
+        "img": "https://m.media-amazon.com/images/I/71DgZGXj3qL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Garmin vivosmart 4",
+        "price": 119.99,
+        "details": "Fitness and health monitoring tools include estimated wrist based heart rate, all day stress tracking, Relaxation breathing timer, Vo2 Max, body battery energy monitor and more",
+        "rating":4.9,
+        "img": "https://m.media-amazon.com/images/I/51mjgO5A4KL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Xiaomi Mi Band 6 Activity Tracker",
+        "price": 44.99,
+        "details": "No. 1 Wearable in the World, XIAOMI Mi Band 6 Is Finally Here: With a 40% larger dynamic AMOLED touch screen, magnetic snap charging, SpO2 Sensor, 24-hour active heart monitoring and 100+ watch faces to choose from.",
+        "rating":4.89,
+        "img": "https://m.media-amazon.com/images/I/51cB1FKYhML._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Amazfit GTS 2 Mini Smart Watch",
+        "price": 99.99,
+        "details": "【SUPER LIGHT AND THIN & BUILT IN AMOLED DISPLAY】The Amazfit GTS 2 mini adopts a borderless design. Featuring carefully curved 2.5D glass to enhance your most fashionable outfits. With a light 19.5 g weight, a thickness of 8.95 mm (without the sensor base), and a skin-friendly silicone strap, this smart watch allows you to enjoy the lightness of time. And a 1.55-inch vibrant AMOLED screen for enhanced color and clarity.",
+        "rating":4.79,
+        "img": "https://m.media-amazon.com/images/I/61dHtJrlcOL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 7,
+        "title": "iConnect By Timex Active Smartwatch",
+        "price": 49.99,
+        "details": "Optical heart rate monitor; sleep & activity tracker (steps, calories & distance); sports mode. Do not operate the unit outside the -14 to 104°F (-10°C to 40°C) temperature range.",
+        "rating":5.0,
+        "img": "https://m.media-amazon.com/images/I/61ghDjhS8vL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Garmin Vivoactive 4S GPS Smartwatch",
+        "price": 239.99,
+        "details": "Garmin Vivoactive 4S - GPS SMARTWATCH BUILT FOR YOUR ACTIVE LIFESTYLE | Tune in to your body, and tone up with a smartwatch that can track it all and help you reach your health and fitness goals. There’s no such thing as too many health stats. Not on this watch. Up to 7 days of battery keeps you connected to your life, not your charger. This watch is water-rated to 5 ATM, making it perfect for a swim, shower or spa day.",
+        "rating":4.85,
+        "img": "https://m.media-amazon.com/images/I/51f-Cfkk1hL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Withings Steel HR Hybrid Smartwatch",
+        "price": 179.99,
+        "details": "AUTOMATIC SLEEP MONITORING - Wake to a Sleep Score based on light & deep sleep cycles, interruptions, depth & regularity.",
+        "rating":4.9,
+        "img": "https://m.media-amazon.com/images/I/81pDVIVrfYL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Garmin Hybrid Smartwatch with Real Watch",
+        "price": 169.99,
+        "details": "Hybrid smartwatches with sophisticated analog looks and advanced smart features. The watch fits wrists with a circumference of 110-175 mm",
+        "rating":4.9,
+        "img": "https://m.media-amazon.com/images/I/71EHBrHu6-S._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 11,
+        "title": "POLAR IGNITE - Advanced Waterproof Fitness Watch",
+        "price": 161.99,
+        "details": "SLIM DESIGN OPTIMIZED FOR 24/7 WEAR: Your new-generation smart workout partner with a 1-button interface includes such essentials as a wrist-based OHR monitor, speed, distance and route tracking with integrated GPS, calorie counter, color touch display.",
+        "rating":4.79,
+        "img": "https://m.media-amazon.com/images/I/61xSjdpeU0L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Garmin vívoactive HR GPS Smart Watch",
+        "price": 239.99,
+        "details": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+        "rating":4.82,
+        "img": "https://m.media-amazon.com/images/I/81nn1bZOUsL._AC_UY327_FMwebp_QL65_.jpg"
+    }
+]
