@@ -15,3 +15,9 @@
 .dlt-item:hover{
     color: brown;
 }
+
+@media all and (max-width:986px){
+    .cart-list span{
+        font-size: 12px;
+    }
+}

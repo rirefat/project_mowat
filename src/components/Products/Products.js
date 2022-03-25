@@ -23,6 +23,7 @@ const Products = (props) => {
         setCart(newCart);
     }
 
+    
     return (
         <div>
             <div className='mt-5 d-flex justify-content-center align-items-center'>

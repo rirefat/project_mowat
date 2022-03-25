@@ -1,0 +1,5 @@
+@media all and (max-width:986px){
+    .btn-area .btn{
+        font-size: 12px !important;
+    }
+}

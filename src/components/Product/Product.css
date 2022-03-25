@@ -34,3 +34,19 @@ button{
     bottom: 0;
     cursor: pointer;
 }
+
+@media all and (max-width:986px){
+    .product-card{
+        width: 200px;
+        height: 470px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    h6{
+        font-size: 14px;
+    }
+    p{
+        font-size: 12px;
+    }
+}
