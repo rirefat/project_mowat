@@ -1,6 +1,6 @@
-import { Button } from 'bootstrap';
 import React from 'react';
-import { Card } from 'react-bootstrap';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCartShopping } from '@fortawesome/free-solid-svg-icons'
 import './Product.css'
 
 const Product = (props) => {
@@ -12,11 +12,11 @@ const Product = (props) => {
                 <p className='ratings'>Rating: {rating}</p>
             </div>
             <div className="card-details p-3">
-                <h4>{title}</h4>
-                <h6 className=' mt-5'>{details.slice(0,40)}....More Details</h6>
+                <h4 className='product-title'>{title}</h4>
+                <h6 className=' mt-5'>{details.slice(0,40)}<strong className='text-secondary'> ....More Details</strong></h6>
                 <h6>Price: ${price}</h6>
             </div>
-            <button className='btn btn-outline-primary w-100'>Add to Cart</button>
+            <button className='btn btn-outline-primary w-100'>Add to Cart <FontAwesomeIcon icon={faCartShopping} /></button>
         </div>
     );
 };

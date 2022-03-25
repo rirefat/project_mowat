@@ -17,14 +17,14 @@ const Products = () => {
                 <img src={icon} alt="" className='me-2'/>
                 <h1>Available Products in <span className='highlighted-text'>MOWAT Store</span></h1>
             </div>            
-            <div className="container mt-5">
-                <div className="products-container mt-3">
+            <div className="container mt-5 mb-5">
+                <div className="products-container mt-3 mb-5">
                     {
                         products.map(product=><Product product={product} key={product.id}></Product>)
                     }
                 </div>
                 <div className="cart-container">
-
+                    <h3 className='text-center'>Order Summery</h3>
                 </div>
             </div>
         </div>
