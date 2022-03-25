@@ -16,7 +16,7 @@ const Product = (props) => {
                 <h6 className=' mt-5'>{details.slice(0,40)}<strong className='text-secondary'> ....More Details</strong></h6>
                 <h6>Price: ${price}</h6>
             </div>
-            <button className='btn btn-outline-primary w-100'>Add to Cart <FontAwesomeIcon icon={faCartShopping} /></button>
+            <button className='btn btn-outline-primary w-100' onClick={()=>props.addToCart(props.product)}>Add to Cart <FontAwesomeIcon icon={faCartShopping} /></button>
         </div>
     );
 };

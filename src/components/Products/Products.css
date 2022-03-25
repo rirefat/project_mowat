@@ -3,7 +3,8 @@
 }
 .container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 4fr 2fr;
+    gap:50px;
 }
 .products-container{
     display: grid;
@@ -11,12 +12,13 @@
     gap:45px
 }
 .cart-container{
-    background-color: #74baff83;
+    background-color: #74baff56;
     height: fit-content;
+    width: 100%;
     padding: 35px 12px;
     border-radius: 8px;
-    /* position: fixed; */
-    /* right: 0; */
+    position: sticky; 
+    top: 20px;
 }
 .cart-container h3{
     font-weight: 400;

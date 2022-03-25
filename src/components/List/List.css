@@ -1,0 +1,17 @@
+.cart-list span{
+    font-size: 15px;
+}
+.cart-list img{
+    width: 60px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 50px;
+    margin-right: 5px;
+}
+.dlt-item{
+    cursor: pointer;
+    color: gray;
+}
+.dlt-item:hover{
+    color: brown;
+}
