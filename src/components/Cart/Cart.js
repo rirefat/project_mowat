@@ -5,7 +5,7 @@ import './Cart.css'
 import List from '../List/List';
 
 const Cart = (props) => {
-    const {addedProducts, chooseAgain} = props;
+    const {addedProducts, chooseAgain,getOne} = props;
     return (
         <div>
             <div className="ordered-list">
@@ -14,7 +14,7 @@ const Cart = (props) => {
                 }
             </div>
             <div className="btn-area text-center">
-                <div className="btn btn-outline-success m-2" >CHOOSE 1 FOR ME <FontAwesomeIcon icon={faArrowRight}/></div>
+                <div className="btn btn-outline-primary m-2" onClick={getOne}>CHOOSE 1 FOR ME <FontAwesomeIcon icon={faArrowRight}/></div>
                 <div className="btn btn-outline-danger m-2" onClick={chooseAgain}>CHOOSE AGAIN <FontAwesomeIcon icon={faTrash}/></div>
             </div>
         </div>
