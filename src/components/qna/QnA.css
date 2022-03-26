@@ -1,0 +1,12 @@
+.qna-part{
+    width: 88%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+.qna-part h4{
+    font-weight: 400;
+}
+.qna-part p{
+    font-size: 16px;
+    color: #2d3436;
+}
